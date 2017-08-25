@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## MIT Hodor
 
-You can use the [editor on GitHub](https://github.com/kalbhor/MITHodor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Terms Of Service:
 
-### Markdown
+• MIT Hodor completely relies on the information provided by the SLCM page for all our users. If the information you require hasn’t been uploaded/ updated on the website, the Bot won’t be able to provide an apt response.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• MIT Hodor practically cannot botch anything up, so any kind of mishaps are most certainly a ludicrous action on the part of the user. We shall not be held responsible for any mishaps that occur due to the former.
 
-```markdown
-Syntax highlighted code block
+• All the code behind the MIT Hodor is open source and available for open scrutiny and viewing at https://github.com/kalbhor/MIT-Hodor
 
-# Header 1
-## Header 2
-### Header 3
+• If you’re a cute girl, send us your number at 8826575775 (Lakshay Kalbhor), 8802060027 (Neel Vashisht), and 9930145707 (Ananya Kaushik). You can also contact us on this number if you face any problems that need to be solved urgently.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalbhor/MITHodor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+• MIT Hodor is in no way affiliated with any Manipal University endeavours and is a student oriented information bot designed by Lakshay Kalbhor, Neel Vashisht, and Ananya Kaushik.
